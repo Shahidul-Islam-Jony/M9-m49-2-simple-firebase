@@ -14,5 +14,6 @@
  * ==> const provider = new GoogleAuthProvider();
  * 12.use singInWithPopUp(auth,provider) and pass auth and provider in button handler
  * 13.activate  sign-in method (google,facebook,github etc) from firebase project authentication
+ * 14.[vite]: change 127.0.0.1 to localhost
  * 
 */
