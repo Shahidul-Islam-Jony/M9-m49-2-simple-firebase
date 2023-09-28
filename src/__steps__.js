@@ -33,7 +33,7 @@
  *                     ------------------------
  * 1.activate the auth provider (create app from github developer , provide Home page url(like http://localhost:5173/) and redirect url from firebase) and get client id, cliend secret from github then paste firebase auth
  * 
- * 2.then go to github doc > buld> Authentication> web> Github... follow instraction
+ * 2.then go to firebase doc > build> Authentication> web> Github... follow instraction
  * 
  * 
  * 
